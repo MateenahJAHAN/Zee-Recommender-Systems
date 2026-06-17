@@ -3,7 +3,9 @@
 A personalized movie **Recommender System** built using **Collaborative Filtering** on the MovieLens-style Zee dataset. The goal is to improve user experience and engagement by recommending movies based on ratings given by a user and by other users similar to them.
 
 **Author:** Mateenah Jahan
+
 Woolf Universilty Malta Europe
+
 Ms Computer Science ML/AI
 ---
 

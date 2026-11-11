@@ -95,3 +95,13 @@ Python, pandas, NumPy, scikit-learn (NearestNeighbors), SciPy (CSR sparse matric
 2. Ensure the three `.dat` files are accessible (update the file paths if needed).
 3. Install dependencies: `pip install pandas numpy scikit-learn scipy scikit-surprise matplotlib seaborn`.
 4. Run the cells top to bottom.
+
+<!-- portfolio-navigation -->
+## Repository guide
+
+- **Code and notebooks** · [zee.ipynb](zee.ipynb)
+- **Data** · [zee-movies.dat](zee-movies.dat), [zee-ratings.dat](zee-ratings.dat), [zee-users.dat](zee-users.dat)
+- **Papers and reports** · [reports](reports)
+
+<!-- /portfolio-navigation -->
+
